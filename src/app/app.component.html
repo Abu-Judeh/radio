@@ -1,0 +1,12 @@
+<div class="container">
+  <ng-container *ngFor="let x of radios">
+    <div class="dropdown">
+      <button class="dropbtn">{{x.name}}</button>
+      <div class="dropdown-content">
+        <a *ngFor="let y of x.radioList">{{y.rName}}
+          <audio controls="" src="{{y.src}}" type="audio/mpeg"> </audio>
+        </a>
+      </div>
+    </div>
+  </ng-container>
+</div>

@@ -1,0 +1,10 @@
+[
+  { "name": "hebron","radios":["hureiyafm","hebronfm"] },
+  { "name": "ramallah","radios":["hureiyafm","hebronfm"]},
+  { "name": "jenin","radios":["hureiyafm","hebronfm"] },
+  { "name": "nablus","radios":["hureiyafm","hebronfm"] },
+  { "name": "bethlahem","radios":["hureiyafm","hebronfm"] },
+  { "name": "jericho","radios":["hureiyafm","hebronfm"] },
+  {"name": "jerusalem","radios":["hureiyafm","hebronfm"]}
+
+]
